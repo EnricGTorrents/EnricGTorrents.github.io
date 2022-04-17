@@ -1,0 +1,5 @@
+Hello! I am an anthropologist specialized in psychological anthropology, social approaches to mental health, and human bio-cultural diversity and its applications in medicine.
+
+Currently researching the genetic basis of schizophrenia and autism, as well as the effects of the neuritine gene (NRN1) in cortical thickness at FIDMAG Research Foundation, Complejo Asistencial Benito Menni de Hermanas Hospitalarias. Past experience as research assistant at Stanford Law School, the James E. Rogers College of Law of the University of Arizona and the Institute de Hautes Études Internationales et du Développement, The Graduate Institute Geneva. I hold an undergraduate degree in anthropology and human evolution, I am studying a B.Sc degree in psychology and next September of 2020 will start a PhD at the Medical Anthropology Research Center (MARC) of the University Rovira i Virgili, working at the interface between Social and Human Sciences, and Health Science. I am more than willing to collaborate with fellow scientists undertaking joint research, please feel free to contact me.
+
+http://www.enricgarcia.me

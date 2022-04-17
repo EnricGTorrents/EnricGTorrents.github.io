@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/enricgtorrents
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://enricgarcia.me
+  * I am enricgtorrents (https://keybase.io/enricgtorrents) on keybase.
+  * I have a public key ASD7ozXg4HbFPvq7n38zdDnWUVGElRzmXTteSHsMPB-4hwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012099c7624a16243b4edc8b90fcad53a849b90047f9ca7e7dbabd44c73fcff21b0d0a",
+      "host": "keybase.io",
+      "kid": "0120fba335e0e076c53efabb9f7f337439d6515184951ce65d3b5e487b0c3c1fb8870a",
+      "uid": "c11cee24aeb9944a20aeae8ec2a2dd19",
+      "username": "enricgtorrents"
+    },
+    "merkle_root": {
+      "ctime": 1610559558,
+      "hash": "c12b12b493e9ea77ced3a3d006c70f216d9ae2aff6328e0df54b9dd224f902b5da82d9955b76da5123c86b50147961f9ea19f57b2e1d3e19ad6d1843f4ca8cf0",
+      "hash_meta": "cd19f8f41fc1f45db9ec39dfa91c91204fac43c8422662f20511fb9bb675f92a",
+      "seqno": 18731110
+    },
+    "service": {
+      "entropy": "qxUrwZZO8jnIjCm3WQwdugr/",
+      "hostname": "enricgarcia.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1610559600,
+  "expire_in": 504576000,
+  "prev": "fbe4f2e0c66d2eab0412fbb55541d6b2f48a8a67b656f576d9b9c6acb88e06fb",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+6M14OB2xT76u59/M3Q51lFRhJUc5l07Xkh7DDwfuIcKp3BheWxvYWTESpcCCcQg++Ty4MZtLqsEEvu1VUHWsvSKime2VvV22bnGrLiOBvvEIHUbKlqJV6GWXBAfPrL13/hV85HPuxGVxUqFkd7ZtQ0MAgHCo3NpZ8RAA5NJfLAJv+bKMIpOi+AiIgrnWx0pncdzNT7BPVSke59YzeFwHx+k1/5ruW8qXuqsS09yavRQEd5bLTR39wP0DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ1n6aCzvrvK8znDfjk04k39YBQ2MY4J/BSQVpCXabWFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/enricgtorrents
+
+==================================================================
