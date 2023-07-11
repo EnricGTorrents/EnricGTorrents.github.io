@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data/stage.gexf",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "Social Capital in the Arbitration Market's summary: Scholars have often assessed and criticized the group of international arbitration professionals, some characterizing this group as a dense ‘white, male’ group. Faced with limited access and data, however, this critique has not been informed by a robust empirical component. Relying on all the appointments made in proceedings under ICSID between 1972 and February 2014, interviews with arbitration professionals, and an original database created for this project, this article is the first to assess the social structure of investor–state arbitrators. Using network analytics, a long-standing but recently popularized methodology for understanding social groups, the article maps the group of professionals by relying on formal appointments to tribunals. The subsequent analysis of this form of operationalizing the social group reveals who are the ‘grand old men’ (and formidable women) or ‘power-brokers’ that dominate the arbitration profession. The article argues, based on the evidence presented, that, among other factors, in addition to good timing and imperfect information, the structure of the process of appointment, and a risk averse culture, key arbitrators may benefit from heuristic biases, or the limited cognitive scope of lawyers making such appointments.",
+    "intro": "Visualizations based on the article published in European Journal of International Law, Volume 25, Issue 2, 1 May 2014, Pages 387–424.",
+    "title": "<i>Social Capital in the Arbitration Market</i> by <a href=https://law.arizona.edu/sergio-puig>Professor Sergio Puig</a>"
+  },
+  "legend": {
+    "edgeLabel": "Edge legend.",
+    "colorLabel": "Color legend.",
+    "nodeLabel": "Node legend."
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Type",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
