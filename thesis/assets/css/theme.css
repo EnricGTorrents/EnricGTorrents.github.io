@@ -33,7 +33,7 @@
    .schedule-tab-content .tab-pane:after,
    .schedule-tab-content .item:after{display:none}
    .schedule-tab-content .item .content{padding-left:0}
-   .schedule-tab-content .item{background:black;padding:1rem}
+   .schedule-tab-content .item{background:white;padding:1rem}
 
 
    .schedule-tab-content .item:last-child{margin-bottom:0}}@media (max-width: 991.98px){.header-has-bg{background:#black}.venue-section{overflow-x:hidden}.venue-section .figure{margin-bottom:1rem}.venue-section .figure.figure-1{z-index:1;-webkit-transform:scale(1);transform:scale(1)}.venue-section .figure.figure-2{-webkit-transform:rotate(0deg);transform:rotate(0deg);z-index:2}.venue-section .figure.figure-3{-webkit-transform:rotate(0deg);transform:rotate(0deg);z-index:3;margin-top:0}.venue-section .figure.figure-4{z-index:3;-webkit-transform:scale(1);transform:scale(1)}}
