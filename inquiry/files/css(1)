@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Source Sans Pro Light Italic'), local('SourceSansPro-LightItalic'), url(https://web.archive.org/web/20191207083714im_/https://fonts.gstatic.com/s/sourcesanspro/v13/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Source Sans Pro Italic'), local('SourceSansPro-Italic'), url(https://web.archive.org/web/20191207083714im_/https://fonts.gstatic.com/s/sourcesanspro/v13/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Source Sans Pro Bold Italic'), local('SourceSansPro-BoldItalic'), url(https://web.archive.org/web/20191207083714im_/https://fonts.gstatic.com/s/sourcesanspro/v13/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(https://web.archive.org/web/20191207083714im_/https://fonts.gstatic.com/s/sourcesanspro/v13/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url(https://web.archive.org/web/20191207083714im_/https://fonts.gstatic.com/s/sourcesanspro/v13/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url(https://web.archive.org/web/20191207083714im_/https://fonts.gstatic.com/s/sourcesanspro/v13/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 08:37:14 Dec 07, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:12:35 Oct 27, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 4.175
+  exclusion.robots: 0.015
+  exclusion.robots.policy: 0.007
+  esindex: 0.01
+  cdx.remote: 9.371
+  LoadShardBlock: 147.415 (6)
+  PetaboxLoader3.datanode: 242.528 (8)
+  load_resource: 680.394 (2)
+  PetaboxLoader3.resolve: 530.603 (2)
+*/

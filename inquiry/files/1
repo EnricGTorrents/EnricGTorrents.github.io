@@ -1,0 +1,35 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  //let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+document.write('<a href="https://web.archive.org/web/20191214102735/https://www.websiteout.net/counter.php"><img src="//web.archive.org/web/20191214102735/http://counter.websiteout.net/compte.php?S='+encodeURI(window.location.hostname)+'&C=36&D=0&N=323&M=1" alt="web hit counter" border="0" /></a>');
+
+}
+/*
+     FILE ARCHIVED ON 10:27:35 Dec 14, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:12:40 Oct 27, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.44
+  exclusion.robots: 0.016
+  exclusion.robots.policy: 0.007
+  esindex: 0.009
+  cdx.remote: 16.156
+  LoadShardBlock: 147.165 (3)
+  PetaboxLoader3.datanode: 98.281 (4)
+  PetaboxLoader3.resolve: 322.516 (2)
+  load_resource: 344.606
+*/
